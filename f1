@@ -1,7 +1,3 @@
 this is new file
 
-<<<<<<< HEAD
-this is line one -- local
-=======
-this is second file -server
->>>>>>> conflict/main
+this new one -local
