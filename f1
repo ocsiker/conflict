@@ -18,5 +18,10 @@ this is ten -localcal
 this evele - server
 this twelve - server
 
+<<<<<<< HEAD
 this thridteen -server
 this fourteen - server
+=======
+this is thirdteen - local 
+this is fourteen - local 
+>>>>>>> b18d3cf4889350f212ba3852b701c55e9b5ad5d0
